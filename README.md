@@ -11,4 +11,5 @@
 - Jmeter
 
 ##Load Testing HTML Report
-![load-test-report](images/Load testing HTML report.png)
+
+![load-test-report](images/load-test-report.png)
