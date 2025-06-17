@@ -18,6 +18,6 @@
 
 ![stress-test-report](images/stress-test-report.png)
 
-##Excel Report for Load and Stess test
+## Excel Report for Load and Stess test
 
 https://docs.google.com/spreadsheets/d/1dHI4sx8i8pgysO2gucmCYwqTqjTXFvIkcZow0k13dQc/edit?usp=sharing
