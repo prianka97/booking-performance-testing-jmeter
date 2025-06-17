@@ -1,7 +1,7 @@
 # booking-performance-testing-jmeter
 
 ## How to run
-- Clone this project using `https://github.com/prianka97/booking-performance-testing-jmeter.git`
+- Clone this project using `git clone https://github.com/prianka97/booking-performance-testing-jmeter.git`
 - import booking.jmx into jmeter
 
 ## Prerequisite
